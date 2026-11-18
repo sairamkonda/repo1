@@ -4,6 +4,14 @@
 - **Made with:** HeyGen Video 1 (`reference_to_video`), using the logo as the reference image
 - **HeyGen video ID:** `d96243083a674055ab34cac91a88a185`
 - **Pillar:** Motivation. Pin this one to the top of the profile.
+- **Status:** rendered 2026-11-18. 20.0 s, 1080×1890, H.264 + AAC, seed `2116684871`.
+
+## QA check (one frame per second)
+- ✅ "DON'T DREAM BIG" opens the video and shatters, as briefed.
+- ✅ "10,000+ CAREERS SHAPED" is spelled correctly over the award-stage shot.
+- ✅ The logo (blue/red-orange/green arcs + "FORTUNE / GLOBAL ORGANISATION") is accurate in the final 4 s, with "Invoke The Entrepreneur In You" under it.
+- ⚠️ The three word cards ("REAL EXPOSURE. / SYSTEMATIC MENTORING. / LIFELONG IMPACT.") did not appear as on-screen text. That stretch shows the award stage and a quick logo flash instead. The narration may still say the lines, so listen before posting.
+- ⚠️ The audio is quiet from about 8.8 s to 10.3 s.
 
 ## Voiceover
 > They told you: don't dream big.
