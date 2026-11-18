@@ -7,7 +7,7 @@
 ## Content pillars
 1. **Motivation:** dream big, consistency, discipline, mindset.
 2. **Growth path:** fresher to mentored professional to entrepreneur (the six-stage path).
-3. **Wins & culture:** awards, team celebrations, milestones. These use real photos from the site/gallery, animated with image-to-video.
+3. **Wins & culture:** awards, team celebrations, milestones. These use real photos from the site/gallery.
 4. **Sales & marketing tips:** one practical lesson per video, framed motivationally.
 5. **Join us:** recruitment calls to action pointing to fortuneglobalorg.com/join-us.
 
@@ -33,4 +33,4 @@
 - Reply to every comment within the first hour. Ask a question in each caption to invite replies.
 - Use 5–10 hashtags: 3 brand, 3 niche, 2–3 local (#Hyderabad, #Telangana).
 - Every Friday, review views, average watch time and follows per video, then do more of what holds attention.
-- Consider Telugu-voiced versions of the best performers. HeyGen can translate a finished video.
+- Consider Telugu-voiced versions of the best performers.
